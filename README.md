@@ -2,14 +2,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+    <img src="\frontend\public\Logo_Horizontal_Blanco@3x.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Tierra y Alma - Tienda de productos artesanales</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Tienda web dedicada a emprendedores locales de productos artesanales.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -26,27 +24,18 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Indice</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Herramientas y lenguajes utilizados</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributing">Equipo</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Contactos</a></li>
+    <li><a href="#acknowledgments">Agradecimientos</a></li>
   </ol>
 </details>
 
