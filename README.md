@@ -13,15 +13,13 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- INDICE -->
 <details>
   <summary>Indice</summary>
   <ol>
     <li><a href="#about-the-project">Sobre el proyecto</a></li>
     <li><a href="#built-with">Herramientas y lenguajes utilizados</a></li>
     <li><a href="#contributing">Equipo</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contactos</a></li>
     <li><a href="#acknowledgments">Agradecimientos</a></li>
   </ol>
 </details>
@@ -36,9 +34,6 @@
 Este proyecto nace de la necesidad de emprendedores locales de vender y hacer conocer sus productos a todos los vecinos de su comunidad. 
 La página web se ecarga de mostrar las diferentes tiendas de cada vededor con su mercaderia correspondiente 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Herramientas y lenguajes utilizados
 
@@ -49,7 +44,6 @@ A continuación, se detallan las herramientas y lenguajes empleados en el desarr
 * [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 * [![MySQL][MySQL.com]][MySQL-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- EQUIPO -->
 ## Equipo
@@ -85,7 +79,7 @@ A continuación, se detallan las herramientas y lenguajes empleados en el desarr
 | --- | --- | --- | --- |
 | ![Foto](URL_Foto7) | **Nombre 10** | [LinkedIn](https://www.linkedin.com/in/perfil7) | [GitHub](https://github.com/perfil7) |
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- AGRADECIMIENTOS -->
 ## Agradecimientos
